@@ -1,7 +1,7 @@
 {
   "name": "trending-stocks-screener",
   "version": "0.1.0",
-  "homepage": "https://sreesri4.github.io/trending-stocks-screener",
+  "homepage": "https://sreesri4.github.io/trending-stocks-screener-tv",
   "description": "A React-based web application that provides a screener for trending stocks, utilizing Tailwind CSS for styling and Lucide icons for UI components.",
   "private": true,
   "proxy": "https://scanner.tradingview.com/",
