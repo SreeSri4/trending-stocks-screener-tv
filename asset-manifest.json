@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trending-stocks-screener/static/css/main.be8f8570.css",
+    "main.js": "/trending-stocks-screener/static/js/main.64eea8d0.js",
+    "index.html": "/trending-stocks-screener/index.html",
+    "main.be8f8570.css.map": "/trending-stocks-screener/static/css/main.be8f8570.css.map",
+    "main.64eea8d0.js.map": "/trending-stocks-screener/static/js/main.64eea8d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be8f8570.css",
+    "static/js/main.64eea8d0.js"
+  ]
+}
