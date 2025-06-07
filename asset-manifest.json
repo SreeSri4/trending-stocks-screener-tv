@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/trending-stocks-screener-tv/static/css/main.be8f8570.css",
-    "main.js": "/trending-stocks-screener-tv/static/js/main.64eea8d0.js",
+    "main.js": "/trending-stocks-screener-tv/static/js/main.b3d287cb.js",
     "index.html": "/trending-stocks-screener-tv/index.html",
     "main.be8f8570.css.map": "/trending-stocks-screener-tv/static/css/main.be8f8570.css.map",
-    "main.64eea8d0.js.map": "/trending-stocks-screener-tv/static/js/main.64eea8d0.js.map"
+    "main.b3d287cb.js.map": "/trending-stocks-screener-tv/static/js/main.b3d287cb.js.map"
   },
   "entrypoints": [
     "static/css/main.be8f8570.css",
-    "static/js/main.64eea8d0.js"
+    "static/js/main.b3d287cb.js"
   ]
 }
