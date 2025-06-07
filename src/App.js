@@ -732,7 +732,7 @@ const TrendingStocksScreener = () => {
     try {
       const payload = getPayloadForCriteria(criteria);
       
-      const response = await fetch('india/scan?label-product=popup-screener-stock', {
+      const response = await fetch('https://scanner.tradingview.com/india/scan?label-product=popup-screener-stock', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
